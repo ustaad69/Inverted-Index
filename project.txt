@@ -1,0 +1,2 @@
+The sample input file contains sample keywords.
+Another input contains different keywords.
